@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+can i haz cheezeburger lawl
 Use the left arrow to go back!
